@@ -7,8 +7,6 @@
 
 옐프 리뷰 분석과 감정 예측하는 앱입니다.
 
-[http://ec2-3-35-26-163.ap-northeast-2.compute.amazonaws.com:8501/](http://ec2-3-35-26-163.ap-northeast-2.compute.amazonaws.com:8501/)
-
 ![dd](https://techcrunch.com/wp-content/uploads/2021/11/FDwBY6FXEA8cMmo.jpeg?w=730&crop=1)
 
 # 분석
