@@ -21,3 +21,6 @@
 * CountVectorizer로 텍스트 전처리
 * MultinomialNB로 감정 예측
 
+![다운로드](https://user-images.githubusercontent.com/105832345/173175615-5e8a7f6b-5f75-4edc-8a55-fd3c377af1c7.png)
+
+
